@@ -1,0 +1,1 @@
+This is a draggable and resizable grid layout system. It is React-only- no jQuery required and is compatible with server-rendered apps. React-Grid-Layout supports draggable, resizable and static widgets, responsive breakpoints and much more.
