@@ -1,0 +1,1 @@
+This is an avatar and profile picture editor for React. It offers you a fast and easy way to resize, crop and rotate your uploaded images using the user interface. The result images have the same resolution as the original ones, without losing any quality.

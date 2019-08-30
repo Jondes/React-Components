@@ -1,0 +1,1 @@
+React-vis is a collection of react components to render common data visualization charts. It supports multiple chart types such as line/area/bar charts, heat maps, pie and donut charts and more. React-vis is easy to setup and use and provides a set of basic building blocks for different charts that can be customized.
