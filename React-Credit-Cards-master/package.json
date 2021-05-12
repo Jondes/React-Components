@@ -87,7 +87,7 @@
     "jest-cli": "^23.6.0",
     "jsdom": "^13.1.0",
     "node-sass": "^4.11.0",
-    "postcss": "^7.0.7",
+    "postcss": "^8.2.10",
     "postcss-cli": "^6.0.1",
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
